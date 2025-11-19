@@ -5,7 +5,7 @@ This repository contains the analysis scripts and notebooks for the analysis of 
 ## Repository structure
 
 - **IRD_sketch_annotation.ipynb** - Cell type annotation using Seurat sketching and unsupervised clustering (R)
-- **Spatial_analysis_IRD.ipynb** - Downstream spatial analysis including cell composition, gene expression, immune microenvironment characterization, and neighborhood identification (Python)
+- **Spatial_analysis_IRD.ipynb** - Select downstream spatial analysis including cell composition, gene expression, immune microenvironment characterization, and neighborhood identification (Python)
 - **utils/** - Helper functions directory containing:
   - `plot_utils.py` - Plotting functions for statistical visualizations in Python
   - `spatial_utils.py` - Spatial analysis utilities in Python (Delaunay triangulation, neighbor detection)
